@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![URI](readme.png)
+![URI](readme.PNG)
 
 
