@@ -1,3 +1,3 @@
-![URI](menor.png)
+![URI](readme.PNG)
 
 
