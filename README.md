@@ -1,5 +1,5 @@
 ### Welcome! 👋
-![GitHub](Images/wallpaper.png)
+![GitHub](Images/GitHub.png)
 
 I'm João Carlos Magalhães, a 16-year-old student based in Brazil. Nice to meet you!
 
